@@ -44,6 +44,6 @@ function week2($day){
 
 // The functions which given in examples do same things but ... (Read second paragraph ⏬ )
 
-// You can see two functions which return days in the wee but the second function is written by principe by KISS beaus this function is short and simple 
+// You can see two functions which return days in the wee but the second function is written by principe by KISS because this function is short and simple 
 
 // ========================================================================================================================================
